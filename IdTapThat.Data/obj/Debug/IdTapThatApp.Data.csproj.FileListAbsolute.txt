@@ -1,0 +1,16 @@
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\obj\Debug\IdTapThatApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\obj\Debug\IdTapThatApp.Data.csprojAssemblyReference.cache
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\IdTapThat.Data.dll.config
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\IdTapThat.Data.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\IdTapThat.Data.pdb
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\EntityFramework.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\EntityFramework.xml
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\obj\Debug\IdTapThatApp.Data.csproj.CopyComplete
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\obj\Debug\IdTapThat.Data.dll
+C:\Users\ICT\Desktop\IdTapThatApp\IdTapThat.Data\obj\Debug\IdTapThat.Data.pdb
