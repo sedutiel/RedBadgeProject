@@ -17,7 +17,7 @@ For the Red Badge Individual Project...
 
 ## Technologies 
 
-* Web API - Empty - C# .NET Framework - version 4.7.2
+* NET Framework MVC 5 - version 4.7.2
 * Class Library C# .NET Framework - version 4.7.2
 
 ## Setup
