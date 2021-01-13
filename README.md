@@ -12,6 +12,9 @@ For the Red Badge Individual Project the goal was to create a .NET Framework MVC
 * [Contact](#contact)
 
 ## Screenshots 
+![image](https://user-images.githubusercontent.com/72028079/104500431-6f998500-55ac-11eb-9065-7dd1d0e39ddb.png)
+<a href="https://trello.com/b/kUfq0tD2/id-tap-that">Trello</a>
+
 
 
 
