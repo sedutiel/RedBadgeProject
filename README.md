@@ -1,7 +1,7 @@
 # Red Badge Project: I’d Tap That
 ## General Info
 
-For the Red Badge Individual Project...
+For the Red Badge Individual Project the goal was to create a .NET Framework MVC 5 Web Application using n-tier architecture covering a topic of your choice.I chose to create an app titled I'd Tap That. It is a beer drinker's database. A place to store reviews of beers from different breweries all over the world. This gives users a guide to what they liked and didnt like, so they can make more informed choices when ordering beer in the future!
 
 ## Table of contents
 * [General Info](#general-Info)
