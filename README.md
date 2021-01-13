@@ -15,7 +15,11 @@ For the Red Badge Individual Project the goal was to create a .NET Framework MVC
 ![image](https://user-images.githubusercontent.com/72028079/104500431-6f998500-55ac-11eb-9065-7dd1d0e39ddb.png)
 <a href="https://trello.com/b/kUfq0tD2/id-tap-that">Trello</a>
 
+![image](https://user-images.githubusercontent.com/72028079/104500728-c606c380-55ac-11eb-9ca9-6c8fa52ebe02.png)
+<a href="https://lucid.app/lucidchart/220fe653-5802-4bf9-a8c4-20f6a1dc7e49/edit?page=0_0#">ERD</a>
 
+
+<a href="https://idtapthat.azurewebsites.net">Deployed to Azure</a>
 
 
 ## Technologies 
